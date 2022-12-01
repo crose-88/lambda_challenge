@@ -2,7 +2,7 @@
 
 ![What is this](base-image.png)
 
-The Challenge is in 3 parts.
+The Challenge is in 2 parts.
 
 Part1.
 
@@ -14,7 +14,7 @@ A user wants to upload a .png file and only a .png file into an s3 bucket. It mu
 Part2.
 
 The user wants the above image manipulated on copy.
-  - The original image metadat must remain
+  - The original image metadata must remain
   - The image must be resized to have a width of 500px
   
   
